@@ -1,16 +1,17 @@
-### Hi there 👋
+**Olá**
+**me chamo Emily**
+**tenho 15 anos**
+**sou estudante do Colegio Civico Militar Duque de Caxias** 
 
-<!--
-**rafaelilopes/rafaelilopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# links dos meus jogos criados na plataforma como: 
 
-Here are some ideas to get you started:
+## javascript
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## scrath...
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>estou estudando <sub>
+  
+  [pensamento computacional]https://pt.wikipedia.org/wiki/Pensamento_computacional
+
+
